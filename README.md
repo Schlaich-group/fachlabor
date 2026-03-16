@@ -1,6 +1,6 @@
 # Fachlabor "Machine Learning Interatomic Potentials"
 
-See the [documentation](https://schlaich-group.github.io/machine-learning-interatomic-potentials) for the lab course "Machine Learning Interatomic Potentials".
+See the [documentation](https://schlaich-group.github.io/fachlabor) for the lab course "Machine Learning Interatomic Potentials".
 
 This repository is only used to publish the documentation of the lab course "Machine Learning Interatomic Potentials". The documentation is built using Sphinx and hosted on GitHub Pages.
 
